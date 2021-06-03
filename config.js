@@ -13,3 +13,4 @@ const CONFIG = {
     messDesc: ' z thi` iu a nhé ?',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://m.me/nta228'
+}
