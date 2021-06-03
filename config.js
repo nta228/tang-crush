@@ -1,19 +1,15 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    introTitle: 'Gửi Iem Pé = Pông !',
+    introDesc: 'They say as long as at least one person cares for you, life isn’t a waste. So when things go terribly wrong, and you feel like giving up, please remember you still got me.',
+    btnIntro: 'From little Tanhtanh with love, hehe ',
+    title: 'Can I say I love you today? If not, can I ask you again tomorrow? And the day after tomorrow? And the day after that? Coz I’ll be loving you every sinhgle day of my life? 😙',
+    desc: 'Will you love me tomorrow? ',
+    btnYes: 'OK a iu <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    question:'Love means you never have to say you’re sorry <3',
+    btnReply: 'Gửi cho anh những lời ngọt ngào đi nào <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều hehe 😘😘',
+    messDesc: ' z thi` iu a nhé ?',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'http://m.me/nta228'
