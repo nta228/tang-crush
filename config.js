@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều hehe 😘😘',
     messDesc: ' z thi` iu a nhé ?',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://nebezb.com/floppybird/'
+    messLink: 'https://freakxapps.com/demo/me/squirrel-hop/'
 }
